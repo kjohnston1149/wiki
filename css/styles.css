@@ -1,6 +1,5 @@
 #padding {
   padding: 20px;
-  float: right;
 }
 #float-left{
   float: left;
@@ -17,6 +16,10 @@ img {
   background-color: #e6ffe6;
 
 }
+
+.minus {
+  background-color: #ff704d;
+}
 .pp{
   margin: inherit;
 }
@@ -24,4 +27,15 @@ img {
   border: 1px;
   border-color: #7a7a52;
   background-color: #ccfff5;
+  border-width: inherit;
+}
+
+.bb{
+  border: 1px;
+  border-color: #	#000000;
+  background-color: ##ff9980;
+  border-width: inherit;
+}
+.cc{
+  background-color: #f2f2f2;
 }
