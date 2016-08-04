@@ -17,3 +17,11 @@ img {
   background-color: #e6ffe6;
 
 }
+.pp{
+  margin: inherit;
+}
+.aa{
+  border: 1px;
+  border-color: #7a7a52;
+  background-color: #ccfff5;
+}
